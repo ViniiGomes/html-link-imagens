@@ -1,0 +1,23 @@
+body{
+    background-color: #f5eeee;
+}
+.tt{
+    right: 20px;
+    background-color: white;
+}
+
+.h33{text-align:center;}
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    h1 {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+    }
+
+ 
+    
