@@ -1,23 +1,34 @@
-body{
+body {
     background-color: #f5eeee;
 }
-.tt{
+
+.tt {
     right: 20px;
     background-color: white;
 }
 
-.h33{text-align:center;}
-    ul {
-        list-style: none;
-        display: flex;
-        justify-content: space-around;
-    }
+.h33 {
+    text-align: center;
+}
 
-    h1 {
-        list-style: none;
-        display: flex;
-        justify-content: space-around;
-    }
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
 
- 
-    
+h1 {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.h22 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
